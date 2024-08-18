@@ -1,0 +1,18 @@
+
+$font-family__main : "Ubuntu", sans-serif;
+$font-family__header: "Metrophobic", sans-serif;
+
+:root{
+    font-size: 67.5%;
+}
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 1.6rem;
+}
